@@ -1,0 +1,6 @@
+add init
+
+add add -all
+git commit -m "first commit"
+git remote add origin
+git push
